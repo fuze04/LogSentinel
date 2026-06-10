@@ -5,7 +5,7 @@
 <h1 align="center">LogSentinel</h1>
 
 <p align="center">
-  Sensitive Data Exposure Scanner for Log Files (VAPT)
+  Sensitive Data Exposure Scanner for Log Files
 </p>
 
 <p align="center">
