@@ -1,4 +1,16 @@
-# LogScan — Sensitive Data Exposure Scanner for Log Files (VAPT)
+<p align="center">
+  <img src="assets/logo.png" alt="LogSentinel Logo" width="350">
+</p>
+
+<h1 align="center">LogSentinel</h1>
+
+<p align="center">
+  Sensitive Data Exposure Scanner for Log Files (VAPT)
+</p>
+
+<p align="center">
+  Detect • Analyze • Protect
+</p>
 
 A self-contained Python tool for **VAPT log reviews**. It scans application /
 API log files supplied by a client, finds **sensitive data that should never be
