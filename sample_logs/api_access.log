@@ -1,0 +1,8 @@
+2024-05-21T09:14:02Z INFO  api.auth login request user=ravi@example.com password=Hunter2! ip=10.20.30.40
+2024-05-21T09:14:03Z DEBUG api.auth issued token: Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4ifQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
+2024-05-21T09:15:10Z INFO  api.otp sent otp=482913 to phone +919876543210
+2024-05-21T09:16:44Z INFO  api.kyc verify pan=ABCPK1234F aadhaar=234567890124
+2024-05-21T09:18:01Z INFO  api.pay charge card=4111111111111111 cvv=123 amount=4999
+2024-05-21T09:20:11Z INFO  api.user profile loaded for 9123456780 email=anita.k@bank.co.in
+2024-05-21T09:22:00Z WARN  api.aws using AKIAIOSFODNN7EXAMPLE for upload
+2024-05-21T09:25:30Z INFO  health check ok node 192.168.1.15

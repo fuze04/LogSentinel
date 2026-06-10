@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": "2024-05-21T10:01:00Z",
+    "endpoint": "/v1/login",
+    "user": "sara@example.org",
+    "password": "P@ssw0rd99",
+    "status": 200
+  },
+  {
+    "timestamp": "2024-05-21T10:02:13Z",
+    "endpoint": "/v1/token",
+    "authToken": "sk_live_8s7Hd92ndJ20fjA0slqWmZ",
+    "client": "android"
+  },
+  {
+    "timestamp": "2024-05-21T10:03:45Z",
+    "endpoint": "/v1/otp/verify",
+    "otp": "550218",
+    "phone": "8800112233"
+  },
+  {
+    "timestamp": "2024-05-21T10:05:02Z",
+    "endpoint": "/v1/kyc",
+    "pan": "ABCPK1234F",
+    "dob": "1990-04-12"
+  }
+]

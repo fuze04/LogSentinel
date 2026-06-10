@@ -1,0 +1,2 @@
+reportlab>=4.0
+openpyxl>=3.1
